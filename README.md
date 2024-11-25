@@ -19,7 +19,7 @@ For more details on the dataset, please refer to the official MIND dataset page.
 Usage
 Clone the repository:
 
-git clone https://github.com/yourusername/News-Recommendation-MIND.git
+git clone https://github.com/Nithin-Rokkam/News-Recommendation-MIND.git
 cd News-Recommendation-MIND
 Install the necessary dependencies:
 
